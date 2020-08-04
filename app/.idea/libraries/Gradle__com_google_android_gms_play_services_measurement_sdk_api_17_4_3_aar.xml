@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:17.4.3@aar">
+    <CLASSES>
+      <root url="jar://D:/Lecture/SMS 6/Projek Kekhususan/BAB IV/Referensi/FAN-Android-CRUD-master/FAN-Android-CRUD-master/caches/transforms-2/files-2.1/2c116a556054d4e2fc8247600d6ea84b/jetified-play-services-measurement-sdk-api-17.4.3/jars/classes.jar!/" />
+      <root url="file://D:/Lecture/SMS 6/Projek Kekhususan/BAB IV/Referensi/FAN-Android-CRUD-master/FAN-Android-CRUD-master/caches/transforms-2/files-2.1/2c116a556054d4e2fc8247600d6ea84b/jetified-play-services-measurement-sdk-api-17.4.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Lecture/SMS 6/Projek Kekhususan/BAB IV/Referensi/FAN-Android-CRUD-master/FAN-Android-CRUD-master/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk-api/17.4.3/3595118ed0ead1cee5178fbd6258f9199eb969a5/play-services-measurement-sdk-api-17.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

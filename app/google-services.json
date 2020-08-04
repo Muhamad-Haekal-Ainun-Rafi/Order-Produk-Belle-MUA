@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "287858708180",
+    "firebase_url": "https://bellemua-e5185.firebaseio.com",
+    "project_id": "bellemua-e5185",
+    "storage_bucket": "bellemua-e5185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287858708180:android:943b73b0ac92b4da14f541",
+        "android_client_info": {
+          "package_name": "com.melenia.makeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287858708180-hakve6bogibnkat021us08j3m8d2coun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melenia.makeup",
+            "certificate_hash": "c50f7f0d78e3f7c9b30fb767e3ba3a8c3976795b"
+          }
+        },
+        {
+          "client_id": "287858708180-rp4g70mrq6d06nb964saji15ef0lf2em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQPkHPc6heHQlyNSGpcygTGBbvTLFqmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287858708180-rp4g70mrq6d06nb964saji15ef0lf2em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

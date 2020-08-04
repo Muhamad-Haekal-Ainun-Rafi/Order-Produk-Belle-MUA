@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.libraries.places:places-compat:2.3.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Lecture/SMS 6/Projek Kekhususan/BAB IV/Referensi/FAN-Android-CRUD-master/FAN-Android-CRUD-master/caches/transforms-2/files-2.1/0b213f2c26281c6659eda23882b8034f/jetified-places-compat-2.3.0/jars/classes.jar!/" />
+      <root url="file://D:/Lecture/SMS 6/Projek Kekhususan/BAB IV/Referensi/FAN-Android-CRUD-master/FAN-Android-CRUD-master/caches/transforms-2/files-2.1/0b213f2c26281c6659eda23882b8034f/jetified-places-compat-2.3.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Lecture/SMS 6/Projek Kekhususan/BAB IV/Referensi/FAN-Android-CRUD-master/FAN-Android-CRUD-master/caches/modules-2/files-2.1/com.google.android.libraries.places/places-compat/2.3.0/3f7bf378409beedfe9bfc5e1ddf428ac25d9a8fa/places-compat-2.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
